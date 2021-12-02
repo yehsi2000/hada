@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'MaruBuri-L';
+    font-style: 200;
+    src: url("./MaruBuri-Light.eot");
+    src: url("./MaruBuri-Light.eot") format("embedded-opentype"),
+     url("./MaruBuri-Light.woff") format("woff"),
+      url("./MaruBuri-Light.otf") format("truetype");
+}
+
+@font-face {
+    font-family: 'MaruBuri-SB';
+    src: url("./MaruBuri-SemiBold.eot");
+    src: url("./MaruBuri-SemiBold.eot") format("embedded-opentype"),
+     url("./MaruBuri-SemiBold.woff") format("woff"),
+      url("./MaruBuri-SemiBold.otf") format("truetype");
+}
